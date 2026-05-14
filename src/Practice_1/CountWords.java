@@ -9,5 +9,6 @@ public class CountWords {
         String[] words = str.split(" ");
 
         System.out.println(words.length);
+        System.out.println();
     }
 }
