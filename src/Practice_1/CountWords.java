@@ -10,5 +10,6 @@ public class CountWords {
 
         System.out.println(words.length);
         System.out.println();
+
     }
 }
