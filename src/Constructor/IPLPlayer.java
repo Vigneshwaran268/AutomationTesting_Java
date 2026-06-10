@@ -28,5 +28,6 @@ public class IPLPlayer {
         System.out.println(obj1.name+"\t\t\t"+obj1.team+"\t\t\t"+obj1.runs+"\t\t\t"+obj1.balls+"\t\t\t");
         System.out.println(obj2.name+"\t\t\t"+obj2.team+"\t\t\t"+obj2.runs+"\t\t\t"+obj2.balls+"\t\t\t");
         System.out.println(obj3.name+"\t\t\t"+obj3.team+"\t\t\t"+obj3.runs+"\t\t\t"+obj3.balls+"\t\t\t");
+
     }
 }
